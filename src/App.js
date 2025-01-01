@@ -28,7 +28,7 @@ function App() {
                 <a href="https://github.com/MariaJMiller/personal" target="_blank" className="underline hover:text-gray-200">Github</a>
               </li>
               <li>
-                <a href="maria.miller.us/blog" target="_blank" className="underline hover:text-gray-200">Blog</a>
+                <a href="mariamiller.us/blog" target="_blank" className="underline hover:text-gray-200">Blog</a>
               </li>
             </ul>
           </div>
